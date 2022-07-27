@@ -11,7 +11,7 @@ I have build this Product Template with my core HTML CSS skills
 ![image](./images/created.png)
 
 
-You can check out the full version here: [Product Design Landing Page By Hitesh](https://justice-by-hitesh.netlify.app/)
+You can check out the full version here: [Product Design Landing Page By Hitesh](https://product-landing-page-by-hitesh.netlify.app/)
 
 
 
